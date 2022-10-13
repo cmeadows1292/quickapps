@@ -1,0 +1,1 @@
+iwr -useb https://raw.githubusercontent.com/cmeadows1292/quickapps/main/apps | iex
